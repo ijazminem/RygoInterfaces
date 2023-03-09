@@ -1,0 +1,30 @@
+body{
+    background: rgb(2,48,79);
+background: linear-gradient(180deg, rgba(2,48,79,1) 0%, rgba(66,122,161,1) 73%);
+}
+
+.titulo{
+    font-size: 35px;
+    font-weight:500 ;
+    text-shadow: 0px 0px 2px #ffffff;
+    color: #ffffff;
+
+}
+
+.btn-primary{
+    background-color: #154667;
+    border-color: #154667;
+
+}
+
+.btn-primary:hover{
+    background-color: #295e82;
+    border-color: #ffffff;
+
+}
+
+.form-label{
+    font-size: 16px;
+    color: #02304F;
+   
+}
